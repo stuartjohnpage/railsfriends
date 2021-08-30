@@ -1,24 +1,7 @@
-# README
+# Friends List APp
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an example app I made, following along a tutorial by John Elder at https://www.youtube.com/watch?v=fmyvWz5TUWg&t=2245s. It's pretty basic; but what's really cool is how quick it was to set-up the CRUD system, and how easy it was to style it in Bootstrap.
 
-Things you may want to cover:
+I might make another Ruby/Rails app in the future just because of how easy this was, and how much it reminds me of Elixir.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+It uses Devise for authentication, and bootstrap for styling.
